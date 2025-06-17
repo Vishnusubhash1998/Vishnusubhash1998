@@ -39,6 +39,6 @@ Built and optimized ETL pipeline to extract and clean large healthcare data into
 
 ## 📫 Connect With Me
 
-📧 subhasharavapalli772@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/subhash-aravapalli-943404340/)  
+📧 aravapallisubhash98@gmail.com  
+💼 [LinkedIn](https://https://www.linkedin.com/in/subhash-a-787a67248/)  
 🌍 Portfolio Coming Soon
